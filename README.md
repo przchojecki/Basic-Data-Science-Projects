@@ -7,7 +7,7 @@ We open-source our code in order to make a collaborative book project. 10 projec
 
 We plan the following chapters in the book:
 
-Your Data Science setup
+Your Data Science setup:
 
 Anaconda
     (installation, updating anaconda, installing new libraries)
